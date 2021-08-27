@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650695846228",
+    "project_id": "panatoursud",
+    "storage_bucket": "panatoursud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650695846228:android:3550c4daad14e79fa500c1",
+        "android_client_info": {
+          "package_name": "com.panatoursud.panatour_stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650695846228-a1kct5veupit84hak1t9hf7pqv7ap2au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Eez7xbmNglx_0_8ZdCm79gcZ8FcZmes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650695846228-a1kct5veupit84hak1t9hf7pqv7ap2au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
